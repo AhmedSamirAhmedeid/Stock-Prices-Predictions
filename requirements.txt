@@ -1,0 +1,10 @@
+joblib
+pandas
+plotly
+scikit-learn
+streamlit
+yfinance
+numpy
+ta
+ipywidgets
+IPython
